@@ -1,4 +1,4 @@
-import java.util.Random;
+import java.util.*;
 
 //using Thread Class
 public class Exp4 {
