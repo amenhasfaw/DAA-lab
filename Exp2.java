@@ -53,5 +53,6 @@ public class Exp2 {
             System.out.println("Enter your choice.");
             choice = scanner.nextInt();
         }
+        scanner.close();
     }
 }
