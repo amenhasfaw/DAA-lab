@@ -1,3 +1,5 @@
+//PRIMS
+
 import java.util.Scanner;
 
 public class Exp10 {

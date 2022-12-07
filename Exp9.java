@@ -1,3 +1,5 @@
+//KRUSKAL
+
 import java.util.Scanner;
 
 public class Exp9 {
